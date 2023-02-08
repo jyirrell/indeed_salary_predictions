@@ -1,2 +1,2 @@
 # indeed_salary_predictions
-DSI project number 3 - Scraping indeed website for data jobs and predicting salaries
+Project number 1 from my Data Science Immersive course with General Assembly - scrpaing job listings from Indeed and predicting salaries
